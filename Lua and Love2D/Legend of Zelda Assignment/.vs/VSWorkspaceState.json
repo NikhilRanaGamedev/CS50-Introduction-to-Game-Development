@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\states",
+    "\\src\\states\\entity",
+    "\\src\\states\\entity\\player",
+    "\\src\\states\\game",
+    "\\src\\world"
+  ],
+  "SelectedNode": "\\src\\GameObject.lua",
+  "PreviewInSolutionExplorer": false
+}
